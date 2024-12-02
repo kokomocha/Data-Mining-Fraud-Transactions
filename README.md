@@ -13,8 +13,7 @@
 Jupyter Notebooks include:
 1. EDA and Visualizations
 2. Data Preprocessing and Feature Engineering
-3. Model Implemetations 
-4. Comparative Model Evaluations
+3. Model Implemetations with Evaluations
 <div>
     <img height=400 src="assets/image.png" alt="Model Accuracy Comparison" title="Model Accuracy Comparison" hspace=20 />
 </div>
